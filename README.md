@@ -19,6 +19,10 @@ Test that node installed successfully by checking version:
 
     node -v
 
+Also requires the MongoDB database:
+
+    sudo apt-get install mongodb
+    
 ## Installing
 
 Run the node package manager from the root of the project directory to install dependencies:
