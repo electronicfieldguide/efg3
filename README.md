@@ -4,10 +4,6 @@ Electronic Field Guide web application
 
 ## Prerequisites
 
-Clone the project via git:
-
-    git clone https://github.com/electronicfieldguide/efg3.git
-
 Make sure you have [Node.js](http://nodejs.org/) installed. If on Ubuntu/Debian install via the following:
 
     sudo apt-get install curl
@@ -25,8 +21,13 @@ Also requires the MongoDB database:
     
 ## Installing
 
+Clone the project via git:
+
+    git clone https://github.com/electronicfieldguide/efg3.git
+
 Run the node package manager from the root of the project directory to install dependencies:
 
+    cd efg3
     npm install
 
 ## Running
