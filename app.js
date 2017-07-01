@@ -35,7 +35,7 @@ app.get('/api/key/:id', function (req, res) {
     // TODO: error if query returns no result
 });
 
-// Start the server and listen on port 3000
-app.listen(3000, function () {
+// Start the server and listen on port
+app.listen(process.env.PORT || 3000, function () {
     console.log('Server listening on port 3000.')
 });
