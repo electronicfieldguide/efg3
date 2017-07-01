@@ -1,21 +1,28 @@
-const express = require('express')
-const app = express()
-const MongoClient = require('mongodb').MongoClient
-const assert = require('assert')
+var express = require('express');
+var mongoose = require('mongoose');
 
-var url = 'mongodb://localhost:27017/test';
+var config = require('./config');
+var VisualKey = require('./models/visualkey');
 
-MongoClient.connect(url, function(err, db) {
-    assert.equal(null, err);
-    console.log("Connected successfully to database");
+var app = express();
 
-    db.close();
-})
+// Connect to mongodb database
+mongoose.connect(config.mongodb.url);
 
-app.get('/', function (req, res) {
-    res.send('Welcome to EFG3!')
-})
+// Route for obtaining key data by id
+app.get('/api/key/:id', function (req, res) {
 
+    // Retrieve the visual key document from mongo by id
+    VisualKey.findOne({ 'id': req.param('id') }, { _id: 0 }).lean().exec(function (err, key) {
+        if (err) throw err;
+
+        res.json(key);
+    });
+
+    // TODO: error if query returns no result
+});
+
+// Start the server and listen on port 3000
 app.listen(3000, function () {
     console.log('Server listening on port 3000.')
-})
+});
