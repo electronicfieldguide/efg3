@@ -9,6 +9,9 @@ var app = express();
 // Connect to mongodb database
 mongoose.connect(config.mongodb.url);
 
+// For serving static files
+app.use(express.static('public'));
+
 // Route for obtaining list of available keys
 app.get('/api/keys', function (req, res) {
 
@@ -18,8 +21,6 @@ app.get('/api/keys', function (req, res) {
 
         res.json(keys);
     });
-
-    // TODO: error if query returns no result
 });
 
 // Route for obtaining key data by id
