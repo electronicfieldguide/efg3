@@ -1,0 +1,1563 @@
+[
+	{
+		"id": "ithomids",
+		"name": "Clearwing Butterflies",
+		"contributors": [
+			"Robert A Morris"
+		],
+		"datasource": "itho_1282360908575",
+		"nodes": [
+			{
+				"narrative": "Color of HW discal area: Translucent yellow to dark orange-brown",
+				"name": "Tiger",
+				"image": "EFGImages/Mech-poly-md-509-184.jpg",
+				"data": {},
+				"children": [
+					{
+						"narrative": "HW with dark central bar or spot: Horizontal bar present",
+						"image": "EFGImages/Mech-poly-md-509-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Hypothyris euclea",
+								"name": "Hypothyris euclea",
+								"image": "EFGImages/Hypo-eucl-md-514-184.jpg",
+								"data": {
+									"scientificName": "Hypothyris euclea"
+								}
+							},
+							{
+								"narrative": "Mechanitis lysimnia Male",
+								"name": "Mechanitis lysimnia Male",
+								"image": "EFGImages/Mech-lysi-md-507-184.jpg",
+								"data": {
+									"scientificName": "Mechanitis lysimnia",
+									"sex": "Male"
+								}
+							},
+							{
+								"narrative": "Mechanitis menapis",
+								"name": "Mechanitis menapis",
+								"image": "EFGImages/Mech-mena-md-505-184.jpg",
+								"data": {
+									"scientificName": "Mechanitis menapis"
+								}
+							},
+							{
+								"narrative": "Mechanitis polymnia Male",
+								"name": "Mechanitis polymnia Male",
+								"image": "EFGImages/Mech-poly-md-509-184.jpg",
+								"data": {
+									"scientificName": "Mechanitis polymnia",
+									"sex": "Male"
+								}
+							},
+							{
+								"narrative": "Melinaea ethra",
+								"name": "Melinaea ethra",
+								"image": "EFGImages/Meli-ethr-md-530-184.jpg",
+								"data": {
+									"scientificName": "Melinaea ethra"
+								}
+							}
+						]
+					},
+					{
+						"narrative": "HW with dark central bar or spot: Dark spot present",
+						"image": "EFGImages/Hypo-lyca-md-526-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Hypothyris lycaste Male",
+								"name": "Hypothyris lycaste Male",
+								"image": "EFGImages/Hypo-lyca-md-526-184.jpg",
+								"data": {
+									"scientificName": "Hypothyris lycaste",
+									"sex": "Male"
+								}
+							},
+							{
+								"narrative": "Mechanitis lysimnia",
+								"name": "Mechanitis lysimnia",
+								"image": "EFGImages/Mech-lysi-fd-508-184.jpg",
+								"data": {
+									"scientificName": "Mechanitis lysimnia"
+								}
+							},
+							{
+								"narrative": "Mechanitis polymnia Female",
+								"name": "Mechanitis polymnia Female",
+								"image": "EFGImages/Mech-poly-fd-510-184.jpg",
+								"data": {
+									"scientificName": "Mechanitis polymnia",
+									"sex": "Female"
+								}
+							},
+							{
+								"narrative": "Thyridia psidii",
+								"name": "Thyridia psidii",
+								"image": "EFGImages/Thyr-psid-md-533-184.jpg",
+								"data": {
+									"scientificName": "Thyridia psidii"
+								}
+							},
+							{
+								"narrative": "Tithorea harmonia",
+								"name": "Tithorea harmonia",
+								"image": "EFGImages/Tith-harm-md-536-184.jpg",
+								"data": {
+									"scientificName": "Tithorea harmonia"
+								}
+							}
+						]
+					},
+					{
+						"narrative": "HW with dark central bar or spot: No bar or spot",
+						"image": "EFGImages/Hyal-exce-md-504-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Margin of HWV with line of spots: Yes (4 or more spots along margin)",
+								"image": "EFGImages/Nape-pere-md-511-184.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Basal third of FW mostly black",
+										"name": "Callithomia hezia",
+										"image": "EFGImages/Call-hezi-md-513-184.jpg",
+										"data": {},
+										"children": [
+											{
+												"narrative": "Callithomia hezia",
+												"name": "Callithomia hezia",
+												"image": "EFGImages/Call-hezi-md-513-184.jpg",
+												"data": {
+													"scientificName": "Callithomia hezia"
+												}
+											},
+											{
+												"narrative": "Hyalyris excelsa",
+												"name": "Hyalyris excelsa",
+												"image": "EFGImages/Hyal-exce-md-504-184.jpg",
+												"data": {
+													"scientificName": "Hyalyris excelsa"
+												}
+											},
+											{
+												"narrative": "Napeogenes peredia",
+												"name": "Napeogenes peredia",
+												"image": "EFGImages/Nape-pere-md-511-184.jpg",
+												"data": {
+													"scientificName": "Napeogenes peredia"
+												}
+											},
+											{
+												"narrative": "Olyras crathis",
+												"name": "Olyras crathis",
+												"image": "EFGImages/Olyr-crat-md-5513-184.jpg",
+												"data": {
+													"scientificName": "Olyras crathis"
+												}
+											},
+											{
+												"narrative": "Tithorea tarricina",
+												"name": "Tithorea tarricina",
+												"image": "EFGImages/Tithl-tarr-md-534-184.jpg",
+												"data": {
+													"scientificName": "Tithorea tarricina"
+												}
+											}
+										]
+									},
+									{
+										"narrative": "Basal third of FW mostly black",
+										"image": "EFGImages/Ith-her-md-n3-o2B-184.jpg",
+										"data": {},
+										"children": [
+											{
+												"narrative": "Ithomia celemia",
+												"name": "Ithomia celemia",
+												"image": "EFGImages/Ith-cel-md-603-2-184.jpg",
+												"data": {
+													"scientificName": "Ithomia celemia"
+												}
+											},
+											{
+												"narrative": "Ithomia heraldica",
+												"name": "Ithomia heraldica",
+												"image": "EFGImages/Ith-her-md-n3-o2B-184.jpg",
+												"data": {
+													"scientificName": "Ithomia heraldica"
+												}
+											},
+											{
+												"narrative": "Napeogenes tolosa",
+												"name": "Napeogenes tolosa",
+												"image": "EFGImages/Nape-tolo-md-505-184.jpg",
+												"data": {
+													"scientificName": "Napeogenes tolosa"
+												}
+											},
+											{
+												"narrative": "Tithorea harmonia",
+												"name": "Tithorea harmonia",
+												"image": "EFGImages/Tith-harm-md-536-184.jpg",
+												"data": {
+													"scientificName": "Tithorea harmonia"
+												}
+											}
+										]
+									}
+								]
+							},
+							{
+								"narrative": "Margin of HWV with line of spots: No (only 1-3 spots at apex)",
+								"image": "EFGImages/Hypo-virg-md-503-184.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Hyposcada virginia",
+										"name": "Hyposcada virginia",
+										"image": "EFGImages/Hypo-virg-md-503-184.jpg",
+										"data": {
+											"scientificName": "Hyposcada virginiana"
+										}
+									},
+									{
+										"narrative": "Hypothyris lycaste Female",
+										"name": "Hypothyris lycaste Female",
+										"image": "EFGImages/Hypo-lyca-fd-529-184.jpg",
+										"data": {
+											"scientificName": "Hypothyris lycaste",
+											"sex": "Female"
+										}
+									},
+									{
+										"narrative": "Melinaea scylax",
+										"name": "Melinaea scylax",
+										"image": "EFGImages/Meli-scyl-md-531-184.jpg",
+										"data": {
+											"scientificName": "Melinaea scylax"
+										}
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"narrative": "Color of HW discal area: Clear with black veins",
+				"name": "Clearwing",
+				"image": "EFGImages/Ith_pat-md-o341.184.jpg",
+				"data": {},
+				"children": [
+					{
+						"narrative": "Center of FW discal cell: Opaque bar or spot",
+						"image": "EFGImages/Ole-vic-md-643-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Ithomia diasa",
+								"name": "Ithomia diasa",
+								"image": "EFGImages/Ith-dia-md-o251-184.jpg",
+								"data": {
+									"scientificName": "Ithomia diasa"
+								}
+							},
+							{
+								"narrative": "Ithomia patilla Female",
+								"name": "Ithomia patilla Female",
+								"image": "EFGImages/Ith_pat-fd-bar-o324-184.jpg",
+								"data": {
+									"scientificName": "Ithomia patilla",
+									"sex": "Female"
+								}
+							},
+							{
+								"narrative": "Oleria rubescens",
+								"name": "Oleria rubescens",
+								"image": "EFGImages/Ole-rub-md-642-184.jpg",
+								"data": {
+									"scientificName": "Oleria rubescens"
+								}
+							},
+							{
+								"narrative": "Oleria vicina",
+								"name": "Oleria vicina",
+								"image": "EFGImages/Ole-vic-md-643-184.jpg",
+								"data": {
+									"scientificName": "Oleria vicina"
+								}
+							}
+						]
+					},
+					{
+						"narrative": "Inner edge of HW border: With tooth-like projections",
+						"image": "EFGImages/Gre-ane-md-637-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Greta andromica",
+								"name": "Greta andromica",
+								"image": "EFGImages/Gre-and-md-633-184.jpg",
+								"data": {
+									"scientificName": "Greta andromica"
+								}
+							},
+							{
+								"narrative": "Greta anette Male",
+								"name": "Greta anette Male",
+								"image": "EFGImages/Gre-ane-md-637-184.jpg",
+								"data": {
+									"scientificName": "Greta anette",
+									"sex": "Male"
+								}
+							},
+							{
+								"narrative": "Greta anette Female",
+								"name": "Greta anette Female",
+								"image": "EFGImages/Gre-ane-fd-638-184.jpg",
+								"data": {
+									"scientificName": "Greta anette",
+									"sex": "Female"
+								}
+							},
+							{
+								"narrative": "Greta nero",
+								"name": "Greta nero",
+								"image": "EFGImages/Gre-ner-md-631-184.jpg",
+								"data": {
+									"scientificName": "Greta nero"
+								}
+							},
+							{
+								"narrative": "Greta oto",
+								"name": "Greta oto",
+								"image": "EFGImages/Gre-oto-md-629-184.jpg",
+								"data": {
+									"scientificName": "Greta oto"
+								}
+							},
+							{
+								"narrative": "Greta polissena Male",
+								"name": "Greta polissena Male",
+								"image": "EFGImages/Gre-pol-md-635-184.jpg",
+								"data": {
+									"scientificName": "Greta polissen",
+									"sex": "Male"
+								}
+							},
+							{
+								"narrative": "Greta polissena Female",
+								"name": "Greta polissena Female",
+								"image": "EFGImages/Gre-pol-fd-636-184.jpg",
+								"data": {
+									"scientificName": "Greta polissen",
+									"sex": "Female"
+								}
+							},
+							{
+								"narrative": "Heterosais edessa Male",
+								"name": "Heterosais edessa Male",
+								"image": "EFGImages/Het-ede-md-639-184.jpg",
+								"data": {
+									"scientificName": "Heterosais edessa",
+									"sex": "Male"
+								}
+							},
+							{
+								"narrative": "Heterosais edessa Female",
+								"name": "Heterosais edessa Female",
+								"image": "EFGImages/",
+								"data": {
+									"scientificName": "Heterosais edessa",
+									"sex": "Female"
+								}
+							}
+						]
+					},
+					{
+						"narrative": "Inner edge of HW border: Uniformly smooth",
+						"image": "EFGImages/Pte-art-md-646-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Border at FW apex: Thick and triangular",
+								"image": "EFGImages/Ith_pat-md-o341.184.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Outer end of HW discal cell: V-shaped",
+										"image": "EFGImages/Ith_pat-md-o341.184.jpg",
+										"data": {},
+										"children": [
+											{
+												"narrative": "Ithomia bolivari",
+												"name": "Ithomia bolivari",
+												"image": "EFGImages/Ith-bol-md-o249-184.jpg",
+												"data": {
+													"scientificName": "Ithomia bolivari"
+												}
+											},
+											{
+												"narrative": "Ithomia patilla Male",
+												"name": "Ithomia patilla Male",
+												"image": "EFGImages/Ith_pat-md-o341.184.jpg",
+												"data": {
+													"scientificName": "Ithomia patilla",
+													"sex": "Male"
+												}
+											},
+											{
+												"narrative": "Ithomia patilla Female",
+												"name": "Ithomia patilla Female",
+												"image": "EFGImages/Ith_pat-fd-bar-o324-184.jpg",
+												"data": {
+													"scientificName": "Ithomia patilla",
+													"sex": "Female"
+												}
+											},
+											{
+												"narrative": "Ithomia terra",
+												"name": "Ithomia terra",
+												"image": "EFGImages/Ith_ter-md-o385-184.jpg",
+												"data": {
+													"scientificName": "Ithomia",
+													"value": "terra"
+												}
+											},
+											{
+												"narrative": "Pteronymia cotytto",
+												"name": "Pteronymia cotytto",
+												"image": "EFGImages/Pte-cot-md-641-184.jpg",
+												"data": {
+													"scientificName": "Pteronymia cotytto"
+												}
+											},
+											{
+												"narrative": "Pteronymia parva",
+												"name": "Pteronymia parva",
+												"image": "EFGImages/Pte-par-md-649-184.jpg",
+												"data": {
+													"scientificName": "Pteronymia parva"
+												}
+											}
+										]
+									},
+									{
+										"narrative": "Outer end of HW discal cell: Convex",
+										"image": "EFGImages/Ole-pau-md-5505-184.jpg",
+										"data": {},
+										"children": [
+											{
+												"narrative": "Hypoleria cassotis",
+												"name": "Hypoleria cassotis",
+												"image": "EFGImages/Hyp-cas-md-358-184.jpg",
+												"data": {
+													"scientificName": "Hypoleria",
+													"value": "cassotis"
+												}
+											},
+											{
+												"narrative": "Oleria paula",
+												"name": "Oleria paula",
+												"image": "EFGImages/Ole-pau-md-5505-184.jpg",
+												"data": {
+													"scientificName": "Oleria paula"
+												}
+											}
+										]
+									}
+								]
+							},
+							{
+								"narrative": "Border at FW apex: Narrow",
+								"image": "EFGImages/Pte-art-md-646-184.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "End bar of FW discal cell: Rectangular (end broad)",
+										"image": "EFGImages/Pte-art-md-646-184.jpg",
+										"data": {},
+										"children": [
+											{
+												"narrative": "Pteronymia artena Male",
+												"name": "Pteronymia artena Male",
+												"image": "EFGImages/Pte-art-md-646-184.jpg",
+												"data": {
+													"scientificName": "Pteronymia artena",
+													"sex": "Male"
+												}
+											},
+											{
+												"narrative": "Pteronymia artena Female",
+												"name": "Pteronymia artena Female",
+												"image": "EFGImages/Pte-art-fd-647-184.jpg",
+												"data": {
+													"scientificName": "Pteronymia artena",
+													"sex": "Female"
+												}
+											},
+											{
+												"narrative": "Pteronymia simplex Female",
+												"name": "Pteronymia simplex Female",
+												"image": "EFGImages/Pte-sim-fd-648-184.jpg",
+												"data": {
+													"scientificName": "Pteronymia simplex",
+													"sex": "Female"
+												}
+											},
+											{
+												"narrative": "Pteronymia tigranes Male",
+												"name": "Pteronymia tigranes Male",
+												"image": "EFGImages/Pte-tig-md-640-184.jpg",
+												"data": {
+													"scientificName": "Pteronymia tigranes",
+													"sex": "Male"
+												}
+											},
+											{
+												"narrative": "Pteronymia tigranes Female",
+												"name": "Pteronymia tigranes Female",
+												"image": "EFGImages/Pte-tig-fd-664-184.jpg",
+												"data": {
+													"scientificName": "Pteronymia tigranes",
+													"sex": "Female"
+												}
+											}
+										]
+									},
+									{
+										"narrative": "End bar of FW discal cell: Triangular (end pointed)",
+										"image": "EFGImages/Epi-sal-md-615-184.jpg",
+										"data": {},
+										"children": [
+											{
+												"narrative": "Episcada salvinia Male",
+												"name": "Episcada salvinia Male",
+												"image": "EFGImages/Epi-sal-md-615-184.jpg",
+												"data": {
+													"scientificName": "Episcada salvinia",
+													"sex": "Male"
+												}
+											},
+											{
+												"narrative": "Episcada salvinia Female",
+												"name": "Episcada salvinia Female",
+												"image": "EFGImages/Epi-sal-fd-616-184.jpg",
+												"data": {
+													"scientificName": "Episcada salvinia",
+													"sex": "Female"
+												}
+											},
+											{
+												"narrative": "Pseudoscada utilla",
+												"name": "Pseudoscada utilla",
+												"image": "EFGImages/Pse-uti-md-651-184.jpg",
+												"data": {
+													"scientificName": "Pseudoscada",
+													"value": "utilla"
+												}
+											}
+										]
+									},
+									{
+										"narrative": "Pteronymia simplex Male",
+										"name": "Pteronymia simplex Male",
+										"image": "EFGImages/Pte-sim-md-656-184.jpg",
+										"data": {
+											"scientificName": "Pteronymia simplex",
+											"sex": "Male"
+										}
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"narrative": "Color of HW discal area: Lemon yellow bordered by black",
+				"name": "Yellow and Black",
+				"image": "EFGImages/Aer_eur-md-o378-184.jpg",
+				"data": {},
+				"children": [
+					{
+						"narrative": "Antenna color: Black-tip",
+						"image": "EFGImages/Aer_eur-md-o378-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Aeria eurimedea",
+								"name": "Aeria eurimedea",
+								"image": "EFGImages/Aer_eur-md-o378-184.jpg",
+								"data": {
+									"scientificName": "Aeria eurimedea"
+								}
+							},
+							{
+								"narrative": "Oleria zelica",
+								"name": "Oleria zelica",
+								"image": "EFGImages/Ole-zel-md-644-184.jpg",
+								"data": {
+									"scientificName": "Oleria zelica"
+								}
+							},
+							{
+								"narrative": "Scada zibia",
+								"name": "Scada zibia",
+								"image": "EFGImages/Sca_zib-md-o430-184.jpg",
+								"data": {
+									"scientificName": "Scada zibia"
+								}
+							}
+						]
+					},
+					{
+						"narrative": "Antenna color: Orange-tip",
+						"image": "EFGImages/Gody-zava-md-550-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Godyris zavaleta Male",
+								"name": "Godyris zavaleta Male",
+								"image": "EFGImages/Gody-zava-md-550-184.jpg",
+								"data": {
+									"scientificName": "Godyris zavaleta",
+									"sex": "Male"
+								}
+							},
+							{
+								"narrative": "Godyris zygia Male",
+								"name": "Godyris zygia Male",
+								"image": "EFGImages/Gody-zygi-md-551-184.jpg",
+								"data": {
+									"scientificName": "Godyris zygia",
+									"sex": "Male"
+								}
+							},
+							{
+								"narrative": "Pteronymia fumida Male",
+								"name": "Pteronymia fumida Male",
+								"image": "EFGImages/Pte-fum-md-623-184.jpg",
+								"data": {
+									"scientificName": "Pteronymia fumida",
+									"sex": "Male"
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"narrative": "FW with translucent smoky black markings: Yes",
+				"name": "Translucent Gold",
+				"image": "EFGImages/Dir-rel-md-org-602-184.jpg",
+				"data": {},
+				"children": [
+					{
+						"narrative": "FW length (range in mm): 41-50 mm",
+						"image": "EFGImages/Eut-dil-md-360-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Dircenna chiriquensis",
+								"name": "Dircenna chiriquensis",
+								"image": "EFGImages/Dir-chi-md-604-184.jpg",
+								"data": {
+									"scientificName": "Dircenna chiriquensis"
+								}
+							},
+							{
+								"narrative": "Eutresis dilucida",
+								"name": "Eutresis dilucida",
+								"image": "EFGImages/Eut-dil-md-360-184.jpg",
+								"data": {
+									"scientificName": "Eutresis dilucida"
+								}
+							},
+							{
+								"narrative": "Eutresis hypereia",
+								"name": "Eutresis hypereia",
+								"image": "EFGImages/Eut-hyp-md-361-184.jpg",
+								"data": {
+									"scientificName": "Eutresis hypereia"
+								}
+							},
+							{
+								"narrative": "Olyras insignis",
+								"name": "Olyras insignis",
+								"image": "EFGImages/Oly-ins-md-362-184.jpg",
+								"data": {
+									"scientificName": "Olyras insiginis"
+								}
+							}
+						]
+					},
+					{
+						"narrative": "FW length (range in mm): 31-40 mm",
+						"image": "EFGImages/Dir-klu-md-601-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "End of FW discal cell: Opaque bar",
+								"image": "EFGImages/Nap-cra-md-613-184.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Margin of HWD with line of spots: Yes (4 or more spots along margin",
+										"image": "EFGImages/Gody-zava-md-550-184.jpg",
+										"data": {},
+										"children": [
+											{
+												"narrative": "Godyris zavaleta Male",
+												"name": "Godyris zavaleta Male",
+												"image": "EFGImages/Gody-zava-md-550-184.jpg",
+												"data": {
+													"scientificName": "Godyris zavaleta",
+													"sex": "Male"
+												}
+											},
+											{
+												"narrative": "Godyris zavaleta Female",
+												"name": "Godyris zavaleta Female",
+												"image": "EFGImages/Gody-zava-fd-538-184.jpg",
+												"data": {
+													"scientificName": "Godyris zavaleta",
+													"sex": "Female"
+												}
+											},
+											{
+												"narrative": "Godyris zygia Male",
+												"name": "Godyris zygia Male",
+												"image": "EFGImages/Gody-zyg-md-663-184.jpg",
+												"data": {
+													"scientificName": "Godyris zygia",
+													"sex": "Male"
+												}
+											},
+											{
+												"narrative": "Godyris zygia Female",
+												"name": "Godyris zygia Female",
+												"image": "EFGImages/Gody-zygi-fd-539-184.jpg",
+												"data": {
+													"scientificName": "Godyris zygia",
+													"sex": "Female"
+												}
+											}
+										]
+									},
+									{
+										"narrative": "Margin of HWD with line of spots: No (only 1 to 3 spots at apex)",
+										"image": "EFGImages/Dir-rel-md-org-602-184.jpg",
+										"data": {},
+										"children": [
+											{
+												"narrative": "Dircenna dero",
+												"name": "Dircenna dero",
+												"image": "EFGImages/Dir-der-md-604-184.jpg",
+												"data": {
+													"scientificName": "Dircenna dero"
+												}
+											},
+											{
+												"narrative": "Dircenna relata Female",
+												"name": "Dircenna relata Female",
+												"image": "EFGImages/Dir-rel-fd-org-610-184.jpg",
+												"data": {
+													"scientificName": "Dircenna relata",
+													"sex": "Female"
+												}
+											},
+											{
+												"narrative": "Ithomia xenos Female",
+												"name": "Ithomia xenos Female",
+												"image": "EFGImages/Ith-xen-fd-670-184.jpg",
+												"data": {
+													"scientificName": "Ithomia xenos",
+													"sex": "Female"
+												}
+											},
+											{
+												"narrative": "Napeogenes cranto Female",
+												"name": "Napeogenes cranto Female",
+												"image": "EFGImages/Nap-cra-fd-614-184.jpg",
+												"data": {
+													"scientificName": "Napeogenes cranto",
+													"sex": "Female"
+												}
+											}
+										]
+									}
+								]
+							},
+							{
+								"narrative": "End of FW discal cell: Smoky translucent bar",
+								"image": "EFGImages/Ith-xen-md-669-184.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Dircenna klugii",
+										"name": "Dircenna klugii",
+										"image": "EFGImages/Dir-klu-md-601-184.jpg",
+										"data": {
+											"scientificName": "Dircenna klugii"
+										}
+									},
+									{
+										"narrative": "Dircenna relata Male",
+										"name": "Dircenna relata Male",
+										"image": "EFGImages/Dir-rel-md-org-602-184.jpg",
+										"data": {
+											"scientificName": "Dircenna relata",
+											"sex": "Male"
+										}
+									},
+									{
+										"narrative": "Ithomia xenos Male",
+										"name": "Ithomia xenos Male",
+										"image": "EFGImages/Ith-xen-md-669-184.jpg",
+										"data": {
+											"scientificName": "Ithomia xenos",
+											"sex": "Male"
+										}
+									},
+									{
+										"narrative": "Napeogenes cranto Male",
+										"name": "Napeogenes cranto Male",
+										"image": "EFGImages/Nap-cra-md-613-184.jpg",
+										"data": {
+											"scientificName": "Napeogenes cranto",
+											"sex": "Male"
+										}
+									}
+								]
+							}
+						]
+					},
+					{
+						"narrative": "FW length (range in mm): 20-30 mm",
+						"image": "EFGImages/Pte-ves-md-621-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Antenna color: Black-tip",
+								"image": "EFGImages/Pte-aga-md-627-184.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Pteronymia agalla",
+										"name": "Pteronymia agalla",
+										"image": "EFGImages/Pte-aga-md-627-184.jpg",
+										"data": {
+											"scientificName": "Pteronymia agalla"
+										}
+									},
+									{
+										"narrative": "Pteronymia fulvimargo Male",
+										"name": "Pteronymia fulvimargo Male",
+										"image": "EFGImages/Pte-vim-md-617-184.jpg",
+										"data": {
+											"scientificName": "Pteronymia fulvimargo",
+											"sex": "Male"
+										}
+									},
+									{
+										"narrative": "Pteronymia fulvimargo Female",
+										"name": "Pteronymia fulvimargo Female",
+										"image": "EFGImages/Pte-vim-fd-618-184.jpg",
+										"data": {
+											"scientificName": "Pteronymia fulvimargo",
+											"sex": "Female"
+										}
+									},
+									{
+										"narrative": "Pteronymia notilla Male",
+										"name": "Pteronymia notilla Male",
+										"image": "EFGImages/Pte-not-md-619-184.jpg",
+										"data": {
+											"scientificName": "Pteronymia notilla",
+											"sex": "Male"
+										}
+									},
+									{
+										"narrative": "Pteronymia notilla Female",
+										"name": "Pteronymia notilla Female",
+										"image": "EFGImages/Pte-not-fd-620-184.jpg",
+										"data": {
+											"scientificName": "Pteronymia notilla",
+											"sex": "Female"
+										}
+									}
+								]
+							},
+							{
+								"narrative": "Antenna color: Orange-tip",
+								"image": "EFGImages/Pte-ves-md-621-184.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Ceratinia tutia",
+										"name": "Ceratinia tutia",
+										"image": "EFGImages/Cera_tuti-md-s5484-184.jpg",
+										"data": {
+											"scientificName": "Ceratinia tutia"
+										}
+									},
+									{
+										"narrative": "Pteronymia fulvescens Male",
+										"name": "Pteronymia fulvescens Male",
+										"image": "EFGImages/Pte-ves-md-621-184.jpg",
+										"data": {
+											"scientificName": "Pteronymia fulvescens",
+											"sex": "Male"
+										}
+									},
+									{
+										"narrative": "Pteronymia fulvescens Female",
+										"name": "Pteronymia fulvescens Female",
+										"image": "EFGImages/Pte-ves-fd-622-184.jpg",
+										"data": {
+											"scientificName": "Pteronymia fulvescens",
+											"sex": "Female"
+										}
+									},
+									{
+										"narrative": "Pteronymia fumida Male",
+										"name": "Pteronymia fumida Male",
+										"image": "EFGImages/Pte-fum-md-623-184.jpg",
+										"data": {
+											"scientificName": "Pteronymia fumida",
+											"sex": "Male"
+										}
+									},
+									{
+										"narrative": "Pteronymia fumida Female",
+										"name": "Pteronymia fumida Female",
+										"image": "EFGImages/Pte-fum-fd-624-184.jpg",
+										"data": {
+											"scientificName": "Pteronymia fumida",
+											"sex": "Female"
+										}
+									},
+									{
+										"narrative": "Talamancana lonera",
+										"name": "Talamancana lonera",
+										"image": "EFGImages/Tal-lon-md-611-184.jpg",
+										"data": {
+											"scientificName": "Talamancana lonera"
+										}
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "hetaerina",
+		"name": "Hetaerina Damselflies",
+		"contributors": [
+			"EFG Author"
+		],
+		"datasource": "hetaerinadamselfliesofcr_1282325174614",
+		"nodes": [
+			{
+				"narrative": "Wing bases with a red patch; abdominal segment 2 with accessory genitalia; elongate upper appendages on segment 10",
+				"name": "Males",
+				"image": "Hetm/Heta-capi-m-gen-4.jpg",
+				"data": {},
+				"children": [
+					{
+						"narrative": "Stigma absent",
+						"image": "Hetm/Heta-crue-mf-1762-1763-1-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Mark on metepisternum metallic green; postclypeus metallic blue-green; thorax dorsum almost black, barely reflective",
+								"name": "Hetaerina cruentata",
+								"image": "Hetm/Heta-crue-mf-1762-184.jpg",
+								"data": {
+									"scientificName": "Hetaerina cruentata"
+								}
+							},
+							{
+								"narrative": "Mark on metepisternum metallic purple-red; postclypeus black; thorax dorsum with metallic bronzy red reflectance",
+								"image": "Hetm/Heta-caja-m-1493-184.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Wing tips smoky; face dull black; abdominal segment 10 with a dorsal apical spine; lower appendage stout, with two tiny inward-pointing teeth at apex",
+										"name": "Hetaerina fuscoguttata",
+										"image": "Hetm/Heta-fusc-m-1682-2-184.jpg",
+										"data": {
+											"scientificName": "Hetaerina fuscoguttata"
+										}
+									},
+									{
+										"narrative": "Tip of forewing clear, tip of hindwing with red spot; face with bronzy red reflectance; abdominal segment 10 without a dorsal apical spine; lower appendage long and narrowing apically with a stout inward-pointing apical tooth",
+										"name": "Hetaerina caja",
+										"image": "Hetm/Heta-caja-m-1703-184.jpg",
+										"data": {
+											"scientificName": "Hetaerina caja"
+										}
+									}
+								]
+							}
+						]
+					},
+					{
+						"narrative": "Stigma present",
+						"image": "Hetm/Heta-capi-m-1666-2-184-2.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Lower appendage very short, virtually absent",
+								"image": "Hetm/Heta-maju-m-1443-1-ap-184-1.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Wings about 35 mm long; forewing tip clear to smoky",
+										"name": "Hetaerina majuscula",
+										"image": "Hetm/Heta-maju-m-1443-1-wg-184.jpg",
+										"data": {
+											"scientificName": "Hetaerina majuscula"
+										}
+									},
+									{
+										"narrative": "Wings less than 30 mm long; forewing tip with red spot",
+										"image": "Hetm/Heta-capi-m-1666-2-184-1.jpg",
+										"data": {},
+										"children": [
+											{
+												"narrative": "Red patch on hindwing base extended into a point along subcosta; thorax dorsum mostly black; postclypeus metallic red",
+												"name": "Hetaerina miniata",
+												"image": "Hetm/Heta-miniM-LS-L-wg-184.jpg",
+												"data": {
+													"scientificName": "Hetaerina miniata"
+												}
+											},
+											{
+												"narrative": "Red patch on hindwing base without a point along subcosta; thorax dorsum partly brown above humeral suture; postclypeus metallic blue-green",
+												"name": "Hetaerina capitalis",
+												"image": "Hetm/Heta-capi-m-1666-2-wg-184.jpg",
+												"data": {
+													"scientificName": "Hetaerina capitalis"
+												}
+											}
+										]
+									}
+								]
+							},
+							{
+								"narrative": "Lower appendage at least half as long as upper",
+								"image": "Hetm/Heta-semp-m-1759-2-ap-184-1.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Red patch on hindwing extending along costa as a long point; all veins in red hindwing patch white; lower appendage curved upward in lateral view, dorsal and dorsolateral teeth present on abdominal segment 10",
+										"name": "Hetaerina titia",
+										"image": "Hetm/Heta-titi-m-509-ap-lat-3389-184.jpg",
+										"data": {
+											"scientificName": "Hetaerina titia"
+										}
+									},
+									{
+										"narrative": "Red patch on hindwing truncate, not extending along costa; veins in red hindwing patch red (often bordered by white); lower appendage not curved upward; without dorsal or dorso-lateral teeth on segement 10",
+										"image": "Hetm/Heta-occi-m-1525-ap-2740-184.jpg",
+										"data": {},
+										"children": [
+											{
+												"narrative": "Lower appendage raquet-shaped; postclypeus and labrum tan to black; face faintly bronzy; mesepimeron tan along humeral suture",
+												"name": "Hetaerina occisa",
+												"image": "Hetm/Heta-occi-m-ap-lat-646-3455-184.jpg",
+												"data": {
+													"scientificName": "Hetaerina occisa"
+												}
+											},
+											{
+												"narrative": "Lower appendage not expanded at apex; postclypeus and labrum metallic blue-green; face black with little reflectance; bronzy purple-red of mesepimeron reaching humeral suture",
+												"name": "Hetaerina sempronia",
+												"image": "Hetm/Heta-semp-m-1759-2-ap-184-1.jpg",
+												"data": {
+													"scientificName": "Hetaerina sempronia"
+												}
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"narrative": "Wing bases not red; no accessory genitalia on segment 2; no elongate upper appendages",
+				"name": "Females",
+				"image": "Hetm/Heta-occi-f-gen-4-1.jpg",
+				"data": {},
+				"children": [
+					{
+						"narrative": "Stigma absent",
+						"image": "Hetf/Heta-caja-f-1704-stig-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Thoracic stripes and dorsum metallic green to nearly black",
+								"image": "Hetf/Heta-crue-f-1412-tho-184.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Postclypeus black and tan; metallic green on thoracic dorsum widening to humeral suture posteriorly",
+										"name": "Hetaerina caja",
+										"image": "Hetf/Heta-caja-f-393-tho-184.jpg",
+										"data": {
+											"scientificName": "Hetaerina caja"
+										}
+									},
+									{
+										"narrative": "Postclypeus metallic green; metallic green on thoracic dorsum not widening to humeral suture posteriorly",
+										"name": "Hetaerina cruentata",
+										"image": "Hetf/Heta-crue-f-1412-hdtho-184.jpg",
+										"data": {
+											"scientificName": "Hetaerina cruentata"
+										}
+									}
+								]
+							},
+							{
+								"narrative": "Thoracic stripes and dorsum dark metallic red",
+								"name": "Hetaerina fuscoguttata",
+								"image": "Hetf/Heta-fusc-f-1492-tho-184.jpg",
+								"data": {
+									"scientificName": "Hetaerina fuscoguttata"
+								}
+							}
+						]
+					},
+					{
+						"narrative": "Stigma present",
+						"image": "Hetf/Heta-capi-f-1048-1-stig-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Thoracic dorsum coppery-purple to metallic red",
+								"image": "Hetf/Hetaerina-sempronia-f-2092-184.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Labrum and postclypeus metallic green; stigma as long as or longer than the two cells below it; dorsolateral spines as large as dorsal spine",
+										"name": "Hetaerina sempronia",
+										"image": "Hetf/Hetaerina-sempronia-f-2092-184.jpg",
+										"data": {
+											"scientificName": "Hetaerina sempronia"
+										}
+									},
+									{
+										"narrative": "Labrum ivory; postclypeus red; stigma shorter than the two cells below it; dorso-lateral spines much smaller than dorsal spine",
+										"name": "Hetaerina miniata",
+										"image": "Hetf/Heta-mini-f-2692-2-184.jpg",
+										"data": {
+											"scientificName": "Hetaerina miniata"
+										}
+									}
+								]
+							},
+							{
+								"narrative": "Thoracic dorsum metallic green to nearly black",
+								"image": "Hetf/Heta-maju-760-3-tho-184.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Forewing about 35 mm; abdomen black above; thoracic stripes dark green with reddish sheen; wing bases with reddish tint",
+										"name": "Hetaerina majuscula",
+										"image": "Hetf/Heta-maju-760-3-tho-184.jpg",
+										"data": {
+											"scientificName": "Hetaerina majuscula"
+										}
+									},
+									{
+										"narrative": "Forewing less than 30 mm; abdomen green-brown above; thoracic stripes metallic green; wing bases without reddish tint",
+										"image": "Hetf/Heta-capi-f-1048-1-thoab-184.jpg",
+										"data": {},
+										"children": [
+											{
+												"narrative": "Upper thoracic (mesepimeron) stripe reaches posterior end of thorax; stigma dark or smoky; labrum ivory to black; a pair of dorso-lateral spines and 3-4 ventro-lateral spines on abdominal segment 10",
+												"name": "Hetaerina capitalis",
+												"image": "Hetf/Heta-capi-f-1048-1-tho-ar-184.jpg",
+												"data": {
+													"scientificName": "Hetaerina capitalis"
+												}
+											},
+											{
+												"narrative": "Upper thoracic stripe incomplete posteriorly; stigma white or pale; no dorso-lateral spines and 2-3 ventro-lateral spines on abdominal segment 10",
+												"image": "Hetf/Heta-occi-f-1499-tho-184.jpg",
+												"data": {},
+												"children": [
+													{
+														"narrative": "Postclypeus with some metallic green; labrum ivory; lateral spine on pronotum; wings hyaline; intersternite finger-shaped",
+														"name": "Hetaerina occisa",
+														"image": "Hetf/Heta-occi-f-1499-pron-184.jpg",
+														"data": {
+															"scientificName": "Hetaerina occisa"
+														}
+													},
+													{
+														"narrative": "Postclypeus tan and black; labrum mostly tan; no lateral spine on pronotum; wings dark on Atlantic slope; hyaline on Pacific side; intersternite flat",
+														"name": "Hetaerina titia",
+														"image": "Hetf/Heta-titi-f-449-1-tho-184.jpg",
+														"data": {
+															"scientificName": "Hetaerina titia"
+														}
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "ipo",
+		"name": "Morning Glories",
+		"contributors": [
+			"Robert A Morris"
+		],
+		"datasource": "ipo_1266810374912",
+		"nodes": [
+			{
+				"narrative": "Corolla blue to purple",
+				"image": "Ipo/Ipom-leuc-fl-20-104.jpg",
+				"data": {},
+				"children": [
+					{
+						"narrative": "Throat white, calyx lobes long and narrow",
+						"image": "Ipo/Ipom-indi-fl-2-104.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Calyx narrow at base, with long hairs, growing wild",
+								"name": "Ipomoea nil",
+								"image": "Ipo/Ipom-nil-clx-8-168.jpg",
+								"data": {
+									"scientificName": "Ipomoea nil"
+								}
+							},
+							{
+								"narrative": "Calyx lobes broad at base, nearly hairless, cultivated",
+								"name": "Ipomoea indica",
+								"image": "Ipo/Ipom-indi-clx-9-168.jpg",
+								"data": {
+									"scientificName": "Ipomoea indica"
+								}
+							}
+						]
+					},
+					{
+						"narrative": "Throat yellow",
+						"name": "Ipomoea parasitica",
+						"image": "Ipo/Ipom-para-hfl-112.jpg",
+						"data": {
+							"scientificName": "Ipomoea parasitica"
+						}
+					},
+					{
+						"narrative": "Corolla purple with throat purple-black, calyx lobes short and rounded",
+						"name": "Ipomoea lindenii",
+						"image": "Ipo/Ipom-lind-hfl-o6-104.jpg",
+						"data": {
+							"scientificName": "Ipomoea lindenii"
+						}
+					},
+					{
+						"narrative": "Throat pink to magenta, calyx lobes recurved",
+						"name": "Ipomoea leucotricha",
+						"image": "Ipo/Ipom-leuc-fl-20-104.jpg",
+						"data": {
+							"scientificName": "Ipomoea leucotricha"
+						}
+					}
+				]
+			},
+			{
+				"narrative": "Corolla lilac, pink or lavender",
+				"image": "Ipo/Ipom-bata-hfl-16-112.jpg",
+				"data": {},
+				"children": [
+					{
+						"narrative": "Calyx with long soft spines",
+						"name": "Ipomoea setosa",
+						"image": "Ipo/Ipom-seto-fl-22-t.jpg",
+						"data": {
+							"scientificName": "Ipomoea setosa"
+						}
+					},
+					{
+						"narrative": "Calyx without spines",
+						"image": "Ipo/Ipom-batoid-fl-5-t.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Calyx lobes long and pointed",
+								"image": "Ipo/Ipom-trif-fl-7684-t.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Calyx hairless, corolla 4-5 cm wide, pink to lilac",
+										"name": "Ipomoea batatas",
+										"image": "Ipo/Ipom-bata-fl-144-7-t.jpg",
+										"data": {
+											"scientificName": "Ipomoea batatas"
+										}
+									},
+									{
+										"narrative": "Calyx with long hairs, corolla 3 cm across, pink to almost white",
+										"name": "Ipomoea trifida",
+										"image": "Ipo/Ipom-trif-fl-7684-t.jpg",
+										"data": {
+											"scientificName": "Ipomoea trifida"
+										}
+									}
+								]
+							},
+							{
+								"narrative": "Calyx lobes short",
+								"image": "Ipo/Ipom-batoid-fl-5-t.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Throat magenta, calyx lobes with a small tooth at apex, flower stalk ridged or winged",
+										"name": "Ipomoea umbraticola",
+										"image": "Ipo/Ipom-umbr-144-o3-t.jpg",
+										"data": {
+											"scientificName": "Ipomoea umbraticola"
+										}
+									},
+									{
+										"narrative": "Throat white inside with gray at base, calyx lobes rounded, no tooth, peduncle not ridged",
+										"name": "Ipomoea batatoides",
+										"image": "Ipo/Ipom-batoid-fl-5-t.jpg",
+										"data": {
+											"scientificName": "Ipomoea batatoides"
+										}
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"narrative": "Corolla white",
+				"image": "Ipo/Conv-nodi-hfl-5-112.jpg",
+				"data": {},
+				"children": [
+					{
+						"narrative": "Corolla tube about 12 cm long",
+						"name": "Ipomoea alba",
+						"image": "Ipo/Ipo-alb-fl-11-122.jpg",
+						"data": {
+							"scientificName": "Ipomoea alba"
+						}
+					},
+					{
+						"narrative": "Corolla tube less than 3 cm",
+						"name": "Ipomoea santillianii",
+						"image": "Ipo/Ipom-sant-hfl-5-112.jpg",
+						"data": {
+							"scientificName": "Ipomoea santillianii"
+						}
+					},
+					{
+						"narrative": "Corolla 2.5 cm wide, no narrow nectar tube, style forked",
+						"name": "Convolvulus nodiflorus",
+						"image": "Ipo/Conv-nodi-fl-7790-t.jpg",
+						"data": {
+							"scientificName": "Convolvulus nodiflorus"
+						}
+					}
+				]
+			},
+			{
+				"narrative": "Corolla orange",
+				"name": "Ipomoea aurantiaca",
+				"image": "Ipo/Ipom-aura-fl-164-112.jpg",
+				"data": {
+					"scientificName": "Ipomoea aurantiaca"
+				}
+			},
+			{
+				"narrative": "Corolla scarlet, 2 cm across, below 500 m",
+				"name": "Ipomoea hederifolia",
+				"image": "Ipo/Ipom-hede-hfl-1-112.jpg",
+				"data": {
+					"scientificName": "Ipomoea hederifolia"
+				}
+			},
+			{
+				"narrative": "Corolla salmon",
+				"name": "Operculina pteripes",
+				"image": "Ipo/Oper-pter-fl-11-112.jpg",
+				"data": {
+					"scientificName": "Operculina pteripes"
+				}
+			}
+		]
+	},
+	{
+		"id": "palm",
+		"name": "Palm Genera of Monteverde",
+		"contributors": [
+			"Robert A Morris"
+		],
+		"datasource": "palm_1266810376600",
+		"nodes": [
+			{
+				"narrative": "Spines present on petiole or stems",
+				"image": "Palm/Bact-dian-rach-78-s.jpg",
+				"data": {},
+				"children": [
+					{
+						"narrative": "Margin of leaflets with spiny teeth, short spines (4-8 mm) on petiole, leaf with stiff plastic texture",
+						"name": "Zamiaceae (Zamia)",
+						"image": "Palm/Zami-skin-lf-55-184.jpg",
+						"data": {
+							"genus": "Zamia"
+						}
+					},
+					{
+						"narrative": "Leaves palmately compound",
+						"name": "Cryosophila",
+						"image": "Palm/Cryo-wars-hab-8082-s.jpg",
+						"data": {
+							"genus": "Cryosophila"
+						}
+					},
+					{
+						"narrative": "Stem smooth, leaf green below, less than 2 m long, spines slender, leaf pinnate with leaflets rising out of rachis plane or simple",
+						"name": "Bactris",
+						"image": "Palm/Bact-dian-lflt-82-s.jpg",
+						"data": {
+							"genus": "Bactris"
+						}
+					},
+					{
+						"narrative": "Stem with persistent leaf bases, leaf whitish below, more than 2 m long, spines long and flat",
+						"image": "Palm/Astr-alat-hab-16-184.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Leaflets in a plane, Atlantic slope, fruit spiny",
+								"name": "Astrocaryum",
+								"image": "Palm/Astr-alat-hab-16-184.jpg",
+								"data": {
+									"genus": "Astrocaryum"
+								}
+							},
+							{
+								"narrative": "Leaflets spreading out of rachis plane, dry Pacific slope, fruit not spiny",
+								"name": "Acrocomia",
+								"image": "Palm/Acro-acul-hab-888-184.jpg",
+								"data": {
+									"genus": "Acrocomia"
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"narrative": "Spines absent",
+				"image": "Palm/Cham-macr-stem-08-184.jpg",
+				"data": {},
+				"children": [
+					{
+						"narrative": "Leaflets varying in width",
+						"image": "Palm/Geon-edul-lflt-32-s.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Circular scar below flowers or fruit, inflorescence unbranched",
+								"name": "Calyptrogyne",
+								"image": "Palm/Caly-brac-inflo-45-s.jpg",
+								"data": {
+									"genus": "Calyptrogyne"
+								}
+							},
+							{
+								"narrative": "Peduncle without a circular scar below flowers, inflorescence simple or branched, scruffy gray-brown hairs",
+								"name": "Geonoma",
+								"image": "Palm/Geon-hoff-fr-2067-184.jpg",
+								"data": {
+									"genus": "Geonoma"
+								}
+							},
+							{
+								"narrative": "Inflorescence broom-like with many slender flattened branches to 25 cm long, slender 1-5 m stems, glabrous",
+								"name": "Synechanthus",
+								"image": "Palm/Syne-wars-infl-45-184.jpg",
+								"data": {
+									"genus": "Synechanthus"
+								}
+							}
+						]
+					},
+					{
+						"narrative": "Leaflets uniform in width",
+						"image": "Palm/Pres-long-lflt-20-s.jpg",
+						"data": {},
+						"children": [
+							{
+								"narrative": "Leaflets S-shaped, yellow-green stripe on underside of petiole and rachis, without a crown shaft, dioecious",
+								"name": "Chamaedorea",
+								"image": "Palm/Cham-pinn-lflt-12-184.jpg",
+								"data": {
+									"genus": "Chamaedorea"
+								}
+							},
+							{
+								"narrative": "Leaflets not S-shaped, no yellow-green stripe on petiole, some with a crown shaft, monoecious",
+								"image": "Palm/Pres-long-rach-99-s.jpg",
+								"data": {},
+								"children": [
+									{
+										"narrative": "Leaflets > 10 cm wide, stilt roots, large trees",
+										"name": "Iriartea",
+										"image": "Palm/Iria-delt-lflt-15-184.jpg",
+										"data": {
+											"genus": "Iriartea"
+										}
+									},
+									{
+										"narrative": "Leaflets narrow and spreading, without a ring of dense roots at base, inflorescence not hairy",
+										"name": "Prestoea",
+										"image": "Palm/Pres-long-rach-99-s.jpg",
+										"data": {
+											"genus": "Prestoea"
+										}
+									},
+									{
+										"narrative": "Leaflets narrow and pendulous, dense ring of small roots at base, inflorescence densely hairy",
+										"name": "Euterpe",
+										"image": "Palm/Eute-prec-root-1155-184.jpg",
+										"data": {
+											"genus": "Euterpe"
+										}
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
