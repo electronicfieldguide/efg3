@@ -8,7 +8,7 @@ var nodeSchema = mongoose.Schema({
     image: String,
 
     data: {}
-}, { _id : false });
+});
 
 // Add node children to schema
 nodeSchema.add({ children: [nodeSchema] });

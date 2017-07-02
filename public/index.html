@@ -4,16 +4,23 @@
     <title>EFG3</title>
     <!-- data-main attribute tells require.js to load
          scripts/main.js after require.js loads. -->
-    <link rel="stylesheet" type="text/css" href="css/lib/semantic.css">
+    <link rel="stylesheet" type="text/css" href="css/lib/treant.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
     <script data-main="js/main" src="js/lib/require.js"></script>
 </head>
 <body>
-    <h1>Welcome to EFG3!</h1>
-    <p>This service provides the following REST endpoints:</p>
+    <div id="container">
+        <i>I need to identify </i>
+        <select class="key-select">
+            <option value="">...</option>
+        </select>
+    </div>
 
-    <ul>
-        <li><a href="api/keys" target="_blank">api/keys</a> - returns metadata for all the keys currently in the database</li>
-        <li><a href="api/key/ipo" target="_blank">api/keys/{id}</a> - query for key data identified by <b>{id}</b>: substitute one of <code>ipo, ithomids, hetaerina or palm</code></li>
-    </ul>
+    <div class="chart" id="OrganiseChart8" style="width: 100%; height: 100%"></div>
+
+
+    <div id="visualkey">
+
+    </div>
 </body>
 </html>

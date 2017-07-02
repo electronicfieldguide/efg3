@@ -1,0 +1,9 @@
+<div class="key-node" id="<%= node._id %>">
+    <img src="<%= node.image %>" />
+    <p>
+        <span class="line-truncate"><%= node.narrative %></span>
+    </p>
+    <% if(node.data && node.data.scientificName) { %>
+        <a href="<%= efgUrl + node.data.scientificName %>" target="_blank">Species page</a>
+    <% } %>
+</div>
