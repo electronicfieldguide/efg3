@@ -2,15 +2,12 @@
 
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { margin:0; padding:0; }
 
-body, html {
-    height: 100%;
-}
 
 body { background: #fff;  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; }
-/* optional Container STYLES */
-.chart { height: 600px; width: 900px; margin: 5px; margin: 15px auto; border: 3px solid #DDD; border-radius: 3px; }
-#visualkey { width: 427px; margin: 15px auto; }
-#visualkey ul { margin-left: 35px; list-style: none; }
+/* optional Container STYLES
+.chart { height: 600px; width: 900px; margin: 5px; margin: 15px auto; border: 3px solid #DDD; border-radius: 3px; }*/
+#visualkey { width: 427px;}
+#visualkey ul { position: absolute; top: 0px; left: -500px; list-style: none; }
 .key-node {
     color: #333333;
     display: inline-block;

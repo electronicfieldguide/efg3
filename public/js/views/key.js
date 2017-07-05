@@ -85,9 +85,9 @@ define([
                     container: "#OrganiseChart8",
                     levelSeparation: 70,
                     siblingSeparation: 60,
-                    scrollbar: "fancy",
                     rootOrientation: "WEST",
                     nodeAlign: "BOTTOM",
+                    scrollbar: "native",
                     connectors: {
                         type: "step",
                         style: {
