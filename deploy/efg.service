@@ -4,7 +4,7 @@ Documentation=http://efg.cs.umb.edu/
 After=network.target
 
 [Service]
-WorkingDirectory=/home/efg/efg3
+WorkingDirectory=/www/efg
 Environment=NODE_PORT=3000
 Type=simple
 ExecStart=/usr/bin/npm start
