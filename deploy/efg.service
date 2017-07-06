@@ -1,0 +1,14 @@
+[Unit]
+Description=EFG3 node.js app
+Documentation=http://efg.cs.umb.edu/
+After=network.target
+
+[Service]
+WorkingDirectory=/home/efg/efg3
+Environment=NODE_PORT=3000
+Type=simple
+ExecStart=/usr/bin/npm start
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
