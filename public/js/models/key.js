@@ -3,7 +3,7 @@ define([
     'backbone'
 ], function (_, Backbone) {
     var KeyModel = Backbone.Model.extend({
-        urlRoot: '/api/key'
+        urlRoot: 'api/key'
     });
 
     return KeyModel;

@@ -5,7 +5,7 @@ define([
 ], function (_, Backbone, KeyModel) {
     var KeysCollection = Backbone.Collection.extend({
         model: KeyModel,
-        url: '/api/keys'
+        url: 'api/keys'
     });
 
     return KeysCollection;

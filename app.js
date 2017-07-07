@@ -4,6 +4,8 @@ var mongoose = require('mongoose');
 var config = require('./config');
 var VisualKey = require('./models/visualkey');
 
+mongoose.Promise = Promise;
+
 var app = express();
 
 // Connect to mongodb database
@@ -27,7 +29,7 @@ app.get('/api/keys', function (req, res) {
 app.get('/api/key/:id', function (req, res) {
 
     // Retrieve the visual key document from mongo by id
-    VisualKey.findOne({ 'id': req.param('id') }, { _id: 0 }).lean().exec(function (err, key) {
+    VisualKey.findOne({ 'id': req.params.id }, { _id: 0 }).lean().exec(function (err, key) {
         if (err) throw err;
 
         res.json(key);
